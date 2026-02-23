@@ -37,7 +37,7 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="mt-20 px-4 md:px-20">
+    <section id="contact" className="mt-5 px-4 md:px-20">
       <motion.h2
         initial={{ opacity: 0, y: 8 }}
         animate={{ opacity: 1, y: 0 }}
